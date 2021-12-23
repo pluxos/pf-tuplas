@@ -2,7 +2,7 @@
 
 
 # Conteúdo
-Equações simples com uso de `let-in` e `where`
+Equações simples com uso de tuplas.
 
 # Exercícios simples
 
