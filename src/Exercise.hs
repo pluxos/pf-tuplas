@@ -79,7 +79,7 @@ Entrada:
     - (m1, m2, m3): cartas
 Resultado: True ou False
 -}
-éJogo c1 c2 c3 = undefined 
+éJogo (c1,c2,c3) = undefined 
 
 {-
 Defina uma função que receba duas tuplas de 3 cartas ordenadas de forma decrescente, compare as tuplas, e retorne a maior dentre as duas tuplas.
